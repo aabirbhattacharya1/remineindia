@@ -129,7 +129,7 @@ input[type="checkbox"] {
     padding: 10px;
   }
   .menu {
-    display: none !important;
+    display: none;
     position: absolute;
     background-color: teal;
     right: 0;
